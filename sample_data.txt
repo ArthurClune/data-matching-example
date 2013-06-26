@@ -1,0 +1,10 @@
+abc1    rode.york.ac.uk         26/03/2013 12:17:23     WNT     LOGIN
+abc1    rode.york.ac.uk         02/04/2013 09:55:08     WNT     LOGIN
+abc1    rode.york.ac.uk         02/04/2013 10:17:36     WNT     LOGOUT
+abc1    rode.york.ac.uk         23/04/2013 09:29:57     WNT     LOGIN
+abc1    biber.york.ac.uk        23/04/2013 16:07:59     WNT     LOGIN
+abc1    biber.york.ac.uk        23/04/2013 16:59:27     WNT     LOGOUT
+abc1    rode.york.ac.uk         23/04/2013 17:08:24     WNT     LOGOUT
+abc1    rode.york.ac.uk         25/04/2013 09:34:31     WNT     LOGIN
+abc1    vm141-95.york.ac.uk     25/04/2013 16:29:41     WNT     LOGOUT
+
