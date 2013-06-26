@@ -9,9 +9,9 @@ The code takes the input given, which represents login and logout times and matc
 
 As the data is rubbish, the code has to deal with missing logins and/or logouts at any point.
 
-This is just example code to show how the algorithm looks in both languages. There's various things that could be added for a truely robust system (e.g. both sets of code assumes that the hostname given resolves).
+This is just example code to show how the algorithm looks in both languages.
 
-The implementation isn't the same: the Python version is written in an imperative style (though with use of itertools and map) as a) this is how I wrote it to start with and b) I think it'd more ideomatic that way.
+The implementation isn't the same: the Python version is written in an imperative style (though with use of itertools and map) as a) this is how I wrote it to start with and b) I think it'd more idiomatic that way.
 
 Variable/function names etc use the conventions for each language:
 
