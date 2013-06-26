@@ -11,7 +11,7 @@ As the data is rubbish, the code has to deal with missing logins and/or logouts 
 
 This is just example code to show how the algorithm looks in both languages.
 
-The implementation isn't the same: the Python version is written in an imperative style (though with use of itertools and map) as a) this is how I wrote it to start with and b) I think it'd more idiomatic that way.
+The implementation isn't the same: the Python version is written in an imperative style (though with use of itertools and map) as a) this is how I wrote it to start with and b) I think it's more idiomatic that way.
 
 Variable/function names etc use the conventions for each language:
 
